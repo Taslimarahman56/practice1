@@ -1,29 +1,35 @@
-.first-half{
-    width: 50%;
-    padding-left: 2%;
-    padding-top:1%;
+body {
+    font-family: 'Poppins', sans-serif;
 
 }
 
+h1 {
+    font-size: 50px;
+}
 
-.one{
+.one {
     color: mediumvioletred;
 }
 
-.section{
+section {
     display: flex;
 }
-.first-half{
+
+.half {
     width: 50%;
+    padding-left: 10px;
 }
-.first-half img{
-    width: 60%;
+
+.half img {
+    width: 500px;
 }
-.link-button{
-    background-color: mediumvioletred;
+
+.link-button {
     text-decoration: none;
+    background-color: mediumvioletred;
     padding: 10px 40px;
-    border-radius: 5px;
     color: aliceblue;
-    font-weight: 700;
+    border-radius: 5px;
+
+
 }
