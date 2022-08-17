@@ -11,9 +11,9 @@ h1 {
     color: mediumvioletred;
 }
 
-section {
+.container {
     display: flex;
-    margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 .half {
@@ -31,6 +31,4 @@ section {
     padding: 10px 40px;
     color: aliceblue;
     border-radius: 5px;
-
-
 }
